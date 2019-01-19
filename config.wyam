@@ -1,0 +1,9 @@
+#recipe Docs
+#theme Samson
+
+// Customize your settings and add new ones here
+Settings[Keys.Host] = "docs.bluephyre.com";
+Settings[DocsKeys.Title] = "BluePhyre";
+// Settings[DocsKeys.Logo] = "/images/SmallLogo.png";
+
+// Add any pipeline customizations here
